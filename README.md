@@ -1,6 +1,6 @@
 # Lumi's quest: Revival
 
-### Created for FullyHacks 2024 — Cool Game Sub-Category Winner
+### Created for [FullyHacks 2024](https://fullyhacks.acmcsuf.com/) — Cool Game Sub-Category Winner
 
 In a once vibrant part of the ocean, the Coralia Reef, a mysterious blight has begun to bleach the corals, draining them of their life and color. The reef's guardians, the Luminescent Corals, possess the ancient power of the ocean's hues but are rooted in place and cannot spread their vitality to their bleached kin.
 
@@ -12,7 +12,6 @@ However, time is of the essence. Dark clouds of pollution are approaching, and w
 WASD to Move
 
 
-Unity Assets: [2D Underwater sprite pack](https://assetstore.unity.com/packages/2d/environments/2d-underwater-sprite-pack-223980) by Laetus Somnia on [Unitdy Assets Store](https://assetstore.unity.com/)
+Unity Assets: [2D Underwater sprite pack](https://assetstore.unity.com/packages/2d/environments/2d-underwater-sprite-pack-223980) by Laetus Somnia on [Unity Assets Store](https://assetstore.unity.com/)
 
 Royalty-Free Music: [Midnight Forest](https://pixabay.com/music/ambient-midnight-forest-184304/) by Syouki_Takahashi on [Pixabay](https://pixabay.com/)
-
