@@ -10,9 +10,13 @@ Enter Lumi, a bright and courageous angelfish with a unique bio-luminescent nose
 
 However, time is of the essence. Dark clouds of pollution are approaching, and without the reef's full vibrancy to protect it, the entire ocean is at risk. Lumin must navigate the dangers, solve the color-based puzzles, and revive the reef to save its underwater world.
 
+### How To Play
 
-WASD to Move
+- WASD or Arrow Keys to Move
+- Volume ON for best gaming experience
+- Note: There is no ending screen
 
+### Resources
 
 Unity Assets: [2D Underwater sprite pack](https://assetstore.unity.com/packages/2d/environments/2d-underwater-sprite-pack-223980) by Laetus Somnia on [Unity Assets Store](https://assetstore.unity.com/)
 
