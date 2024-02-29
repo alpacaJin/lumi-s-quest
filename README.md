@@ -13,8 +13,9 @@ However, time is of the essence. Dark clouds of pollution are approaching, and w
 ### How To Play
 
 - WASD or Arrow Keys to Move
-- Volume ON for best gaming experience
-- Note: There is no ending screen
+- Volume ON for Best Gaming Experience
+- Note: There is no Ending Screen
+- Note: Full-Screen not Recommended
 
 ### Resources
 
