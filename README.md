@@ -1,5 +1,7 @@
 # Lumi's quest: Revival
 
+[Play it here!](https://alpacajin.github.io/lumi-s-quest/)
+
 ### Created for [FullyHacks 2024](https://fullyhacks.acmcsuf.com/) — Cool Game Sub-Category Winner
 
 In a once vibrant part of the ocean, the Coralia Reef, a mysterious blight has begun to bleach the corals, draining them of their life and color. The reef's guardians, the Luminescent Corals, possess the ancient power of the ocean's hues but are rooted in place and cannot spread their vitality to their bleached kin.
