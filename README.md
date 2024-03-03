@@ -1,5 +1,7 @@
 # Lumi's quest: Revival
 
+![image](https://github.com/alpacaJin/lumi-s-quest/assets/67350265/0b81cc21-1652-4e8e-a926-3f5f0fa2b4f8)
+
 [Play it here!](https://alpacajin.github.io/lumi-s-quest/)
 
 ### Created for [FullyHacks 2024](https://fullyhacks.acmcsuf.com/) — Cool Game Sub-Category Winner
